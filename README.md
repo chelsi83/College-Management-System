@@ -1,21 +1,28 @@
-#College-Management-System
+# College Management System (CMS)
 
-##Console-based Java application for managing college operations.
+A Java-based College Management System demonstrating Object-Oriented Programming (OOP) concepts.
 
-###Uses core Object-Oriented Programming (OOP) principles.
+## Package
+`com.chelsi.cms`
 
-####Collects and displays student details.
+## Features
+- Student Registration
+- Course Enrollment
+- Club Activities
+- Event Participation
+- Fees Management
+- Hostel Allocation
+- Library System
 
-#####Supports course enrollment with instructor and schedule info.
+##  Technologies Used
+- Java (JDK 8+)
+- Object-Oriented Programming
+- Command-line Interaction via `Scanner`
 
-#####Manages club activities and event participation.
+## How to Run
+1. Clone or download the project.
+2. Ensure all class files (`Student.java`, `Course.java`, etc.) are in the `com.chelsi.cms` package.
+3. Compile the code:
+   ```bash
+   javac com/chelsi/cms/*.java
 
-######Handles fee payments, scholarships, and fee calculation.
-
-#######Includes hostel room allocation, payment, and rules.
-
-########Simulates library system for borrowing and returning books.
-
-##########Uses Scanner for user input and interaction via terminal.
-
-###########Demonstrates real-world modules: student, course, club, event, fee, hostel, and library.
